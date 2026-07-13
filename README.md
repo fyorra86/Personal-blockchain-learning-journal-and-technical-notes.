@@ -14,3 +14,4 @@ This repository contains personal study notes about blockchain technology, decen
 
 - Document daily learning progress and technical research.
 - Studying reentrancy attack patterns.
+- Improving repository transparency.
